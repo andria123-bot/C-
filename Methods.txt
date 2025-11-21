@@ -1,0 +1,8 @@
+TypeCasting:
+Convert.Method(convert which datatype you want to)(argument(variable which u want to convert))
+Convert.ToInt32()
+Convert.ToString()
+Convert.ToDouble()
+
+Get Types:
+Variable(Var Name).GetType()(Returnes type of the var)
